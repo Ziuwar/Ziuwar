@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ziuwar
+- 👋 Hi, I’m @Andreas
 - 👀 I’m interested in programming and hardware design.
 - 🌱 I’m currently learning swift :D
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... github?
 
 <!---
